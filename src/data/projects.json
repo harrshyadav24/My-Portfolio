@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Inshorts Clone",
+    "imageSrc": "projects/InshortsClone.png",
+    "description": "Developed the Inshorts Clone to display the daily news using MERN stack.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://inshorts-clone-1-zwr6.onrender.com",
+    "source": "https://github.com/harrshyadav24/Inshorts-Clone.git"
+  },
+  {
+    "title": "Blog Website",
+    "imageSrc": "projects/BlogWebsite.png",
+    "description": "Developed a basic blog website in which user can post their blogs, read others blogs.",
+    "skills": ["Express", "Node", "MongoDB"],
+    "demo": "https://blog-website-deployed.onrender.com",
+    "source": "https://github.com/harrshyadav24/Blog-Website-Deployed"
+  },
+  {
+    "title": "To do List",
+    "imageSrc": "projects/TodoList.png",
+    "description": "Developed a simple To do List where user can write their daily tasks and delete them after completion.",
+    "skills": ["Express", "Node", "MongoDB"],
+    "demo": "https://to-do-list-deployed-dxgr.onrender.com",
+    "source": "https://github.com/harrshyadav24/To-do-list-Deployed"
+  }
+]
